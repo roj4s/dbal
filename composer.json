@@ -1,7 +1,7 @@
 {
-    "name": "doctrine/dbal",
+    "name": "rojas/doctrine-dbal",
     "type": "library",
-    "description": "Database Abstraction Layer",
+    "description": "Database Abstraction Layer wit SqlServer type datetime issue fixed",
     "keywords": ["dbal", "database", "persistence", "queryobject"],
     "homepage": "http://www.doctrine-project.org",
     "license": "MIT",
@@ -9,7 +9,7 @@
         {"name": "Guilherme Blanco", "email": "guilhermeblanco@gmail.com"},
         {"name": "Roman Borschel", "email": "roman@code-factory.org"},
         {"name": "Benjamin Eberlei", "email": "kontakt@beberlei.de"},
-        {"name": "Jonathan Wage", "email": "jonwage@gmail.com"}
+        {"name": "Jonathan Wage", "email": "jonwage@gmail.com"},
     ],
     "require": {
         "php": "^7.0",
